@@ -67,10 +67,9 @@ The app allows you to:
 - Delete products from the database.
 
 ## Code
-![screenshot](https://github.com/Zaifi059/Sql_demo/assets/125743722/2e5b860b-b20e-40a6-9e54-056f3e421570)
-![screenshot1](https://github.com/Zaifi059/Sql_demo/assets/125743722/91c6a8c2-a68c-444a-9495-23c6d1615d65)
-![Pubsec](https://github.com/Zaifi059/Sql_demo/assets/125743722/a5fa54e2-39ff-4c39-863f-c8133a1e499f)
-
+![screenshot1](https://github.com/Zaifi059/Sql_demo/assets/125743722/9a912cfc-3f2a-4890-82df-20e7a9dbcbbf)
+![screenshot](https://github.com/Zaifi059/Sql_demo/assets/125743722/94bb58a7-47a9-4dfd-aa50-bf3a8c181eeb)
+![Pubsec](https://github.com/Zaifi059/Sql_demo/assets/125743722/bc396603-f292-486e-9d01-14380040f12f)
 
 ## Contributing
 
